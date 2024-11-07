@@ -16,5 +16,6 @@ public class HelloWorld {
             System.out.print("Hello World");
             System.out.println("!".repeat(i));
         }
+        System.out.println("Hello there");
     }
 }
